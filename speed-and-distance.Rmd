@@ -13,10 +13,13 @@ knit: (function(input_file, encoding) {
  output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
 ```
 
+Testing local branch changes to commit
 
 
 ```{r cars}
 summary(cars)
+
+
 ```
 
 

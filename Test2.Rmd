@@ -22,9 +22,13 @@ When you click the **Knit** button a document will be generated that includes bo
 ```{r cars}
 summary(cars)
 ```
-##This is a different line
-## Including Plots
 
+##This is a different line
+
+
+
+## Including Plots
+##One More one More
 You can also embed plots, for example:
 
 ```{r pressure, echo=FALSE}
